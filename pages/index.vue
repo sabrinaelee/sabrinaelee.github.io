@@ -23,8 +23,8 @@
         <div class="hello-column2">
           <h1>Hi, I'm Sabrina 👋</h1>
           <h2>
-            A designer with a passion for analyzing systems and creating digital
-            solutions
+            I'm a product designer and Systems Design Engineering student @
+            University of Waterloo
           </h2>
           <div class="previous">
             UX design intern @ <a href="https://tdlab.io/"> TD Labs </a>
