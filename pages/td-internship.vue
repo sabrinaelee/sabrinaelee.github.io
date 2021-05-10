@@ -10,7 +10,7 @@
         <b-navbar-nav class="ml-auto">
           <b-nav-item NuxtLink to="/">Work</b-nav-item>
           <b-nav-item NuxtLink to="/artwork">Illustration</b-nav-item>
-          <a class="nav-link" href="/Sabrina-Lee-Resume-fall-2021.pdf"
+          <a class="nav-link" href="/sabrina-lee-resume-fall-2021.pdf"
             >Resume</a
           >
         </b-navbar-nav>
