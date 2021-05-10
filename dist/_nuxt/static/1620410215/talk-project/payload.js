@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/talk-project", {data:[{}],fetch:{},mutations:void 0});

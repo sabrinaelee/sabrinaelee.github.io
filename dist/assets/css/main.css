@@ -60,6 +60,13 @@
     font-size:16px;
    }
 
+   h9{
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    color: #3c3c3c;
+    font-size:42px;
+   }
+
 
 
  a{
@@ -122,9 +129,8 @@
 }
 
 .upbudget-container{
-  padding:4%;
-  margin-left:auto;
-  margin-right:auto;
+margin-left:auto;
+margin-right:auto;
   margin-top:4%;
   border-radius: 10px;
   position: relative;
@@ -161,11 +167,31 @@ overflow: none;
 
 .td-body{
   background-color: #F0F6EC;
+  margin-top:2%;
+  margin-bottom:2%;
+  margin-left:10%;
+margin-right:10%;
+  padding:4%;
+  overflow: none;
+}
+
+.upbudget-body{
+  background-color: #E1E4E8;
   
   margin-top:2%;
   margin-bottom:2%;
-  padding:4%;
+  margin-left:10%;
+margin-right:10%;
+  padding-left:4%;
+  padding-right:4%;
+  padding-top:2%;
+  padding-bottom:2%;
   overflow: none;
+}
+
+.upbudget-prototype{
+  margin-left:10%;
+
 }
 
 .td-body-text{
@@ -186,6 +212,16 @@ overflow: none;
   width:33%;
 }
 
+.upbudget-column{
+  float:left;
+  width:30%;
+}
+
+.upbudget-column-1{
+  float:left;
+  width:60%;
+}
+
 .td-column1{
   /* float:left; */
   width:50%;
@@ -199,6 +235,12 @@ overflow: none;
   padding-left:4%;
 }
 
+.td-row{
+margin-top:2%;
+margin-bottom:4%;
+display: flex;
+flex-direction: row;
+}
 .td-row{
 margin-top:2%;
 margin-bottom:4%;

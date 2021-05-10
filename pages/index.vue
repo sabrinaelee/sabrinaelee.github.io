@@ -10,7 +10,9 @@
         <b-navbar-nav class="ml-auto">
           <b-nav-item NuxtLink to="/">Work</b-nav-item>
           <b-nav-item NuxtLink to="/artwork">Illustration</b-nav-item>
-          <a class="nav-link" href="/Sabrina-Lee-Resume-2021.pdf">Resume</a>
+          <a class="nav-link" href="/Sabrina-Lee-Resume-fall-2021.pdf"
+            >Resume</a
+          >
         </b-navbar-nav>
       </b-collapse>
     </b-navbar>
@@ -32,13 +34,14 @@
         </div>
       </div>
     </div>
+
     <div class="projects-below">
       <h4>View Projects ↓</h4>
     </div>
 
     <div data-aos="fade-up">
       <div class="td-container">
-        <a href="/talk-project">
+        <a href="/td-internship">
           <div class="td-row1">
             <div class="td-column1">
               <img
@@ -60,22 +63,23 @@
 
     <div data-aos="fade-up">
       <div class="upbudget-container">
-        <div class="td-row1">
-          <div class="td-column1">
-            <img
-              class="talk-thumbnail"
-              src="~/static/assets/images/work/group 183.png"
-            />
+        <a href="/upbudget">
+          <div class="td-row1">
+            <div class="td-column1">
+              <img
+                class="talk-thumbnail"
+                src="~/static/assets/images/work/group 183.png"
+              />
+            </div>
+            <div class="td-column2">
+              <h3>UpBudget</h3>
+              <h4>
+                Optimizing personal finance by tracking spending and investing
+                responsibly.
+              </h4>
+            </div>
           </div>
-          <div class="td-column2">
-            <h3>UpBudget</h3>
-            <h4>
-              Optimizing personal finance by tracking spending and investing
-              responsibly.
-            </h4>
-            <h4>⚠️ Currently under construction</h4>
-          </div>
-        </div>
+        </a>
       </div>
     </div>
 
