@@ -174,30 +174,37 @@ margin-right:10%;
   padding:4%;
   overflow: none;
 }
+.persona-upbudget-image{
+  display:block;
+  width:80%;
+  height:30%;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:6%;
+  margin-bottom:8%;
 
+}
 .upbudget-body{
-  background-color: #E1E4E8;
-  
+  background-color: #F1F6FC;
   margin-top:2%;
   margin-bottom:2%;
-  margin-left:10%;
-margin-right:10%;
-  padding-left:4%;
-  padding-right:4%;
+
+  
   padding-top:2%;
   padding-bottom:2%;
   overflow: none;
 }
 
 .upbudget-prototype{
-  margin-left:10%;
-
+  margin-left:24%;
+  
 }
 
 .td-body-text{
   padding-top:2%;
   padding-right:2%;
   padding-left:2%;
+
 }
 
 .td-body-text-indent{
@@ -292,7 +299,7 @@ flex-direction: row;
   margin-left:10%;
   margin-right:10%;
   margin-top:2%;
-  margin-bottom:4%;
+  margin-bottom:2%;
 }
 
 .ideation-coordina-image{

@@ -31,7 +31,7 @@
         </div>
         <div class="td-column">
           <h5>TIMELINE</h5>
-          <h6>February 2021 [23 hours]</h6>
+          <h6>23 hours</h6>
         </div>
         <div class="td-column">
           <h5>MY ROLE</h5>
@@ -46,69 +46,79 @@
 
     <div data-aos="fade-up">
       <div class="upbudget-body">
-        <h7> Introduction </h7>
-        <h4>
-          This project was designed for TILE Designathon, a 23 hour designathon
-          that I participated in along with a fellow designer. We were given an
-          intial prompt and were encouraged to explore the problem space and
-          design a solution for it. I was initially tasked with addressing the
-          problem of how one might better equip people with tools for financial
-          planning by leveraging my design experience. Many young adults do not
-          practice any financial planning and lack basic financial literacy.
-          Overall, majority of young adults live in a reality where they have
-          little knowledge of how to start saving up for long term financial
-          goals, investing their income, or budgeting their expenses.
-        </h4>
-      </div>
-    </div>
+        <div class="coordina-ideation">
+          <h7> Introduction </h7>
 
-    <div data-aos="fade-up">
-      <div class="coordina-ideation">
-        <h7>Design Process</h7>
-        <div class="td-body-text">
-          <h5><b>1. Define the problem space</b></h5>
-          <div class="td-body-text-indent">
-            <h6>‣ Brainstormed different concepts for our final solution</h6>
-          </div>
-          <h5><b>2. Research</b></h5>
-          <div class="td-body-text-indent">
-            <h6>
-              ‣ Utilized user surveys to develop empathy for the users that we
-              were designing for which gave us further insight into the needs,
-              motivations, and goals of a potential user
-            </h6>
-            <h6>
-              ‣ Conducted high level market research through secondary research
-            </h6>
-            <h6>‣ Conducted competitive analysis</h6>
-          </div>
-          <h5><b>3. Analysis</b></h5>
-          <div class="td-body-text-indent">
-            <h6>‣ Drew insights from the data collected</h6>
-            <h6>‣ Formed a user persona and user journey map</h6>
-          </div>
-          <h5><b>4. Design</b></h5>
-          <div class="td-body-text-indent">
-            <h6>
-              ‣ Referred to our analysis of the user and created a final design
-            </h6>
-            <h6>‣ Completed two iterations of our design</h6>
-          </div>
+          <h4>
+            We currently live in a reality where many young adults do not
+            practice any financial planning and lack basic financial literacy.
+            According to recent studies, a majority of young adults possess
+            little knowledge of how to start saving up for long term financial
+            goals, investing their income, or budgeting their expenses. For this
+            generation, stress caused by finances is becoming a major issue.
+            Therefore, with the help of fellow designer, I decided to design a
+            solution to address this problem.
+          </h4>
         </div>
       </div>
     </div>
 
     <div data-aos="fade-up">
-      <div class="upbudget-body">
-        <h7>Solution</h7>
+      <div class="coordina-problem-space">
+        <h7> Exploring the problem space</h7>
+        <div class="coordina-ps-1">
+          <h5>PROBLEM</h5>
+          <h4>
+            Many young adults experience difficulty with managing their finances
+            (e.g. budgeting, saving, investing, etc.).
+          </h4>
+        </div>
+        <div class="coordina-ps-1">
+          <h5>OPPORTUNITY</h5>
+          <h4>
+            How might we better equip people with tools for financial planning?
+          </h4>
+        </div>
+      </div>
+    </div>
 
+    <div data-aos="fade-up">
+      <div class="coordina-persona">
+        <h7> Who are we designing for? </h7>
+
+        <img
+          class="persona-upbudget-image"
+          src="~/static/assets/images/Upbudget - Persona.png"
+        />
+      </div>
+    </div>
+
+    <div data-aos="fade-up">
+      <div class="coordina-persona">
+        <h7> What other products are on the market now?</h7>
+
+        <img
+          class="persona-upbudget-image"
+          src="~/static/assets/images/upbudget-competitive-research.png"
+        />
+      </div>
+    </div>
+
+    <div data-aos="fade-up">
+      <div class="coordina-ideation">
+        <h7> Solution Overview </h7>
         <div class="td-body-text-indent">
-          <h6>
-            The solution to the initial prompt came down to a mobile financial
-            app designed to assist users with the planning of their financial
-            future while leveraging a user’s monthly savings into
-            micro-investments to boost returns.
-          </h6>
+          <h4>
+            • Designing a mobile financial app to assist users with the planning
+            of their financial future by tracking spending and developing
+            monthly budgets to help align spending habits with long term
+            financial goals
+          </h4>
+          <h4>
+            • Allow users to put their monthly savings towards micro-investments
+            organized by a low risk stock portfolio generated based off of the
+            user’s financial goals
+          </h4>
         </div>
       </div>
     </div>
