@@ -38,6 +38,27 @@
     <div class="projects-below">
       <h4>View Projects ↓</h4>
     </div>
+    <div data-aos="fade-up">
+      <div class="upbudget-container">
+        <a href="/upbudget">
+          <div class="td-row1">
+            <div class="td-column1">
+              <img
+                class="talk-thumbnail"
+                src="~/static/assets/images/work/group 183.png"
+              />
+            </div>
+            <div class="td-column2">
+              <h3>UpBudget</h3>
+              <h4>
+                Optimizing personal finance by tracking spending and investing
+                responsibly.
+              </h4>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
 
     <div data-aos="fade-up">
       <div class="td-container">
@@ -54,28 +75,6 @@
               <h4>
                 Designing innovative digital experiences to address user
                 problems and enhance the user journey
-              </h4>
-            </div>
-          </div>
-        </a>
-      </div>
-    </div>
-
-    <div data-aos="fade-up">
-      <div class="upbudget-container">
-        <a href="/upbudget">
-          <div class="td-row1">
-            <div class="td-column1">
-              <img
-                class="talk-thumbnail"
-                src="~/static/assets/images/work/group 183.png"
-              />
-            </div>
-            <div class="td-column2">
-              <h3>UpBudget</h3>
-              <h4>
-                Optimizing personal finance by tracking spending and investing
-                responsibly.
               </h4>
             </div>
           </div>
