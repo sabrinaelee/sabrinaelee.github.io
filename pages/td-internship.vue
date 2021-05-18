@@ -82,7 +82,7 @@
         <h4>
           Over the course of this term I had the opportunity to devote my
           efforts to two main projects and several side projects pursued by TD
-          Lab. Althought, I am happy to present one of the side projects that I
+          Lab. Although, I am happy to present one of the side projects that I
           designed this term,
           <b> Coordina. </b>
         </h4>
