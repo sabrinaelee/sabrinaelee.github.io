@@ -38,6 +38,7 @@
     <div class="projects-below">
       <h4>View Projects ↓</h4>
     </div>
+
     <div data-aos="fade-up">
       <div class="upbudget-container">
         <a href="/upbudget">
@@ -79,6 +80,24 @@
             </div>
           </div>
         </a>
+      </div>
+    </div>
+
+    <div data-aos="fade-up">
+      <div class="voluntera-container">
+        <div class="td-row1">
+          <div class="td-column1">
+            <img
+              class="talk-thumbnail"
+              src="~/static/assets/images/work/voluntera-thumbnail.png"
+            />
+          </div>
+          <div class="td-column2">
+            <h3>Voluntera</h3>
+            <h4>Connecting volunteers with local organizations in need</h4>
+            <h4>🔒 Project currently under construction</h4>
+          </div>
+        </div>
       </div>
     </div>
 
