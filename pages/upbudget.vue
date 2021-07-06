@@ -88,7 +88,7 @@
 
         <img
           class="persona-upbudget-image"
-          src="~/static/assets/images/Upbudget - Persona.png"
+          src="~/static/assets/images/upbudget-persona.png"
         />
       </div>
     </div>

@@ -199,7 +199,7 @@ overflow: none;
 }
 
 .td-thumbnail{
-  width:100%;
+  width:90%;
   height:100%;
   margin-bottom:1%;
 }
@@ -372,6 +372,16 @@ flex-direction: row;
   height:100%;
   padding:2%;
   float:right;
+}
+
+.voluntera-thumbnail{
+  display:block;
+  width:50%;
+  height:100%;
+  padding:2%;
+  margin-left: auto;
+  margin-right: auto;
+  
 }
 
     /* .td-container:before{

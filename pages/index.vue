@@ -53,7 +53,7 @@
               <h3>UpBudget</h3>
               <h4>
                 Optimizing personal finance by tracking spending and investing
-                responsibly.
+                responsibly
               </h4>
             </div>
           </div>
@@ -88,8 +88,8 @@
         <div class="td-row1">
           <div class="td-column1">
             <img
-              class="talk-thumbnail"
-              src="~/static/assets/images/work/voluntera-thumbnail.png"
+              class="voluntera-thumbnail"
+              src="~/static/assets/images/voluntera-thumbnail.png"
             />
           </div>
           <div class="td-column2">
