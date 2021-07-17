@@ -10,9 +10,7 @@
         <b-navbar-nav class="ml-auto">
           <b-nav-item NuxtLink to="/">Work</b-nav-item>
           <b-nav-item NuxtLink to="/artwork">Illustration</b-nav-item>
-          <a class="nav-link" href="/sabrina-lee-resume-fall-2021.pdf"
-            >Resume</a
-          >
+          <a class="nav-link" href="/summer-2022-res.pdf">Resume</a>
         </b-navbar-nav>
       </b-collapse>
     </b-navbar>
@@ -29,7 +27,8 @@
             University of Waterloo
           </h2>
           <div class="previous">
-            UX design intern @ <a href="https://tdlab.io/"> TD Labs </a>
+            Incoming product designer @
+            <a href="https://www.points.com/"> Points </a>
           </div>
         </div>
       </div>

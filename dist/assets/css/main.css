@@ -377,11 +377,11 @@ flex-direction: row;
 .voluntera-thumbnail{
   display:block;
   width:50%;
-  height:100%;
+  height:90%;
   padding:2%;
   margin-left: auto;
   margin-right: auto;
-  
+  margin-top:4%;
 }
 
     /* .td-container:before{
