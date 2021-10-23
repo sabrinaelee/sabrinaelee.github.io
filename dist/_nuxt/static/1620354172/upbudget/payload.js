@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/upbudget", {data:[{}],fetch:{},mutations:void 0});
