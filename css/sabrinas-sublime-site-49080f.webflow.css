@@ -449,6 +449,7 @@
 
 .column-2 {
   padding-right: 0px;
+  padding-left: 28px;
 }
 
 .columns {
@@ -461,6 +462,8 @@
   -webkit-justify-content: space-between;
   -ms-flex-pack: justify;
   justify-content: space-between;
+  -o-object-fit: fill;
+  object-fit: fill;
 }
 
 .points-hover-copy {
