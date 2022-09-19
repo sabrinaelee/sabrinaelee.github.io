@@ -237,7 +237,7 @@
 .footer {
   margin-right: 0%;
   margin-left: 0%;
-  padding: 6% 16%;
+  padding: 6% 20%;
   background-color: #0c0707;
   color: #0c0707;
 }
@@ -272,7 +272,6 @@
 .text-block-8 {
   margin-top: 20px;
   color: #fff;
-  text-align: center;
 }
 
 .link {
@@ -708,7 +707,6 @@
   margin-right: 20%;
   margin-bottom: 10%;
   margin-left: 20%;
-  padding: 4%;
 }
 
 .link-5-copy {
@@ -1164,6 +1162,7 @@
 .image-21 {
   border: 2px solid #000;
   border-radius: 4px;
+  width: 100%;
 }
 
 .user-td {
@@ -1182,6 +1181,7 @@
   margin-bottom: 4%;
   border: 2px solid #000;
   border-radius: 4px;
+  width: 100%;
 }
 
 .insights-td {
@@ -1198,6 +1198,7 @@
   margin-top: 4%;
   border: 2px solid #000;
   border-radius: 4px;
+  width: 100%;
 }
 
 .brainstorming-td {
@@ -1543,18 +1544,18 @@
 
 @media screen and (min-width: 1280px) {
   .navbar {
-    margin-right: 24%;
-    margin-left: 24%;
+    margin-right: 20%;
+    margin-left: 20%;
   }
 
   .hero {
-    margin-right: 24%;
-    margin-left: 24%;
+    margin-right: 20%;
+    margin-left: 20%;
   }
 
   .content {
-    margin-right: 24%;
-    margin-left: 24%;
+    margin-right: 20%;
+    margin-left: 20%;
   }
 
   .paragraph {
@@ -1562,8 +1563,8 @@
   }
 
   .spacer {
-    margin-right: 24%;
-    margin-left: 24%;
+    margin-right: 20%;
+    margin-left: 20%;
   }
 
   .div-block-6 {
