@@ -796,7 +796,7 @@
 }
 
 .image-12 {
-  width: 50%;
+  width: 200%;
   height: 50%;
   margin-right: 12%;
 }
@@ -1739,6 +1739,7 @@
   font-style: normal;
   font-display: swap;
 }
+
 @font-face {
   font-family: 'Recoletaalt';
   src: url('../fonts/RecoletaAlt-SemiBold.ttf') format('truetype');
@@ -1746,6 +1747,7 @@
   font-style: normal;
   font-display: swap;
 }
+
 @font-face {
   font-family: 'Recoletaalt';
   src: url('../fonts/RecoletaAlt-Regular.ttf') format('truetype');
@@ -1753,6 +1755,7 @@
   font-style: normal;
   font-display: swap;
 }
+
 @font-face {
   font-family: 'Recoletaalt';
   src: url('../fonts/RecoletaAlt-Medium.ttf') format('truetype');
@@ -1760,6 +1763,7 @@
   font-style: normal;
   font-display: swap;
 }
+
 @font-face {
   font-family: 'Recoletaalt';
   src: url('../fonts/RecoletaAlt-Light.ttf') format('truetype');
@@ -1767,6 +1771,7 @@
   font-style: normal;
   font-display: swap;
 }
+
 @font-face {
   font-family: 'Recoletaalt';
   src: url('../fonts/RecoletaAlt-Bold.ttf') format('truetype');
@@ -1774,6 +1779,7 @@
   font-style: normal;
   font-display: swap;
 }
+
 @font-face {
   font-family: 'Recoletaalt';
   src: url('../fonts/RecoletaAlt-Black.ttf') format('truetype');
@@ -1781,6 +1787,7 @@
   font-style: normal;
   font-display: swap;
 }
+
 @font-face {
   font-family: 'Recoleta';
   src: url('../fonts/Recoleta-Thin.ttf') format('truetype');
@@ -1788,6 +1795,7 @@
   font-style: normal;
   font-display: swap;
 }
+
 @font-face {
   font-family: 'Recoleta';
   src: url('../fonts/Recoleta-SemiBold.ttf') format('truetype');
@@ -1795,6 +1803,7 @@
   font-style: normal;
   font-display: swap;
 }
+
 @font-face {
   font-family: 'Recoleta';
   src: url('../fonts/Recoleta-Light.ttf') format('truetype');
@@ -1802,6 +1811,7 @@
   font-style: normal;
   font-display: swap;
 }
+
 @font-face {
   font-family: 'Recoleta';
   src: url('../fonts/Recoleta-Regular.ttf') format('truetype');
@@ -1809,6 +1819,7 @@
   font-style: normal;
   font-display: swap;
 }
+
 @font-face {
   font-family: 'Recoleta';
   src: url('../fonts/Recoleta-Medium.ttf') format('truetype');
@@ -1816,6 +1827,7 @@
   font-style: normal;
   font-display: swap;
 }
+
 @font-face {
   font-family: 'Recoleta';
   src: url('../fonts/Recoleta-Bold.ttf') format('truetype');
@@ -1823,6 +1835,7 @@
   font-style: normal;
   font-display: swap;
 }
+
 @font-face {
   font-family: 'Helvetica 587ebe5a59211';
   src: url('../fonts/helvetica-light-587ebe5a59211.ttf') format('truetype');
@@ -1830,6 +1843,7 @@
   font-style: normal;
   font-display: swap;
 }
+
 @font-face {
   font-family: 'Helvetica';
   src: url('../fonts/Helvetica-Oblique.ttf') format('truetype');
@@ -1837,6 +1851,7 @@
   font-style: italic;
   font-display: swap;
 }
+
 @font-face {
   font-family: 'Helvetica';
   src: url('../fonts/Helvetica.ttf') format('truetype');
@@ -1844,6 +1859,7 @@
   font-style: normal;
   font-display: swap;
 }
+
 @font-face {
   font-family: 'Helvetica';
   src: url('../fonts/Helvetica-Bold.ttf') format('truetype');
@@ -1851,6 +1867,7 @@
   font-style: normal;
   font-display: swap;
 }
+
 @font-face {
   font-family: 'Helvetica';
   src: url('../fonts/Helvetica-BoldOblique.ttf') format('truetype');
@@ -1858,6 +1875,7 @@
   font-style: italic;
   font-display: swap;
 }
+
 @font-face {
   font-family: 'Helvetica rounded 5871d05ead8de';
   src: url('../fonts/helvetica-rounded-bold-5871d05ead8de.otf') format('opentype');
@@ -1865,6 +1883,7 @@
   font-style: normal;
   font-display: swap;
 }
+
 @font-face {
   font-family: 'Helvetica compressed 5871d14b6903a';
   src: url('../fonts/helvetica-compressed-5871d14b6903a.otf') format('opentype');
@@ -1872,6 +1891,7 @@
   font-style: normal;
   font-display: swap;
 }
+
 @font-face {
   font-family: 'Pangeaafrikantexttrial';
   src: url('../fonts/PangeaAfrikanTextTrial-Bold.otf') format('opentype');
@@ -1879,6 +1899,7 @@
   font-style: normal;
   font-display: swap;
 }
+
 @font-face {
   font-family: 'Pangeaafrikantexttrial';
   src: url('../fonts/PangeaAfrikanTextTrial-Italic.otf') format('opentype');
@@ -1886,6 +1907,7 @@
   font-style: italic;
   font-display: swap;
 }
+
 @font-face {
   font-family: 'Pangeaafrikantrial';
   src: url('../fonts/PangeaAfrikanTrial-SemiBoldItalic.otf') format('opentype');
@@ -1893,6 +1915,7 @@
   font-style: italic;
   font-display: swap;
 }
+
 @font-face {
   font-family: 'Pangeaafrikantexttrial';
   src: url('../fonts/PangeaAfrikanTextTrial-BoldItalic.otf') format('opentype');
@@ -1900,6 +1923,7 @@
   font-style: italic;
   font-display: swap;
 }
+
 @font-face {
   font-family: 'Pangeaafrikantexttrial';
   src: url('../fonts/PangeaAfrikanTextTrial-Light.otf') format('opentype');
@@ -1907,6 +1931,7 @@
   font-style: normal;
   font-display: swap;
 }
+
 @font-face {
   font-family: 'Pangeaafrikantexttrial';
   src: url('../fonts/PangeaAfrikanTextTrial-LightItalic.otf') format('opentype');
@@ -1914,6 +1939,7 @@
   font-style: italic;
   font-display: swap;
 }
+
 @font-face {
   font-family: 'Pangeaafrikantrial';
   src: url('../fonts/PangeaAfrikanTrial-Bold.otf') format('opentype');
@@ -1921,6 +1947,7 @@
   font-style: normal;
   font-display: swap;
 }
+
 @font-face {
   font-family: 'Pangeaafrikantrial';
   src: url('../fonts/PangeaAfrikanTrial-BoldItalic.otf') format('opentype');
@@ -1928,6 +1955,7 @@
   font-style: italic;
   font-display: swap;
 }
+
 @font-face {
   font-family: 'Pangeaafrikantrial';
   src: url('../fonts/PangeaAfrikanTrial-Italic.otf') format('opentype');
@@ -1935,6 +1963,7 @@
   font-style: italic;
   font-display: swap;
 }
+
 @font-face {
   font-family: 'Pangeaafrikantrial';
   src: url('../fonts/PangeaAfrikanTrial-Light.otf') format('opentype');
@@ -1942,6 +1971,7 @@
   font-style: normal;
   font-display: swap;
 }
+
 @font-face {
   font-family: 'Pangeaafrikantrial';
   src: url('../fonts/PangeaAfrikanTrial-LightItalic.otf') format('opentype');
@@ -1949,6 +1979,7 @@
   font-style: italic;
   font-display: swap;
 }
+
 @font-face {
   font-family: 'Pangeaafrikantrial';
   src: url('../fonts/PangeaAfrikanTrial-Medium.otf') format('opentype');
@@ -1956,6 +1987,7 @@
   font-style: normal;
   font-display: swap;
 }
+
 @font-face {
   font-family: 'Pangeaafrikantrial';
   src: url('../fonts/PangeaAfrikanTrial-MediumItalic.otf') format('opentype');
@@ -1963,6 +1995,7 @@
   font-style: italic;
   font-display: swap;
 }
+
 @font-face {
   font-family: 'Pangeaafrikantrial';
   src: url('../fonts/PangeaAfrikanTrial-Regular.otf') format('opentype');
@@ -1970,6 +2003,7 @@
   font-style: normal;
   font-display: swap;
 }
+
 @font-face {
   font-family: 'Pangeaafrikantrial';
   src: url('../fonts/PangeaAfrikanTrial-SemiBold.otf') format('opentype');
