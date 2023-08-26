@@ -1659,8 +1659,8 @@
 
 @media screen and (min-width: 1280px) {
   .navbar, .hero, .content {
-    margin-left: 24%;
-    margin-right: 24%;
+    margin-left: 16%;
+    margin-right: 16%;
   }
 
   .paragraph {
@@ -1668,8 +1668,8 @@
   }
 
   .spacer {
-    margin-left: 24%;
-    margin-right: 24%;
+    margin-left: 16%;
+    margin-right: 16%;
   }
 
   .div-block-6, .div-block-7 {
