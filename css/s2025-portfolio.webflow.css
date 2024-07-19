@@ -222,7 +222,7 @@
   letter-spacing: 1px;
   justify-content: center;
   align-items: center;
-  width: auto;
+  width: 250px;
   padding: 10px;
   font-family: Neuemontreal, sans-serif;
   display: flex;
@@ -292,7 +292,8 @@
   overflow: clip;
 }
 
-.text-block-6, .text-block-7 {
+.text-block-6,
+.text-block-7 {
   letter-spacing: 1px;
   font-family: Neuemontreal, sans-serif;
   font-size: 16px;
@@ -423,7 +424,8 @@
   display: flex;
 }
 
-.text-block-15, .text-block-16 {
+.text-block-15,
+.text-block-16 {
   letter-spacing: 1px;
   font-family: Neuemontreal, sans-serif;
   line-height: 150%;
@@ -457,7 +459,8 @@
   border-radius: 5px;
 }
 
-.div-block-11, .div-block-12 {
+.div-block-11,
+.div-block-12 {
   grid-column-gap: 10px;
   grid-row-gap: 10px;
   flex-flow: column;
@@ -838,7 +841,8 @@
   line-height: 150%;
 }
 
-.div-block-22, .div-block-23 {
+.div-block-22,
+.div-block-23 {
   grid-column-gap: 10px;
   grid-row-gap: 10px;
   flex-flow: column;
@@ -861,7 +865,8 @@
   margin-bottom: 0;
 }
 
-.paragraph-48, .paragraph-49 {
+.paragraph-48,
+.paragraph-49 {
   letter-spacing: 1px;
   font-family: Neuemontreal, sans-serif;
 }
@@ -907,7 +912,9 @@
   display: flex;
 }
 
-.div-block-26, .div-block-27, .div-block-28 {
+.div-block-26,
+.div-block-27,
+.div-block-28 {
   grid-column-gap: 10px;
   grid-row-gap: 10px;
   flex-flow: column;
@@ -987,7 +994,8 @@
   display: grid;
 }
 
-.div-block-34, .div-block-35 {
+.div-block-34,
+.div-block-35 {
   grid-column-gap: 10px;
   grid-row-gap: 10px;
   flex-flow: column;
@@ -1216,7 +1224,8 @@
   margin-right: 12%;
 }
 
-.div-block-44, .div-block-45 {
+.div-block-44,
+.div-block-45 {
   grid-column-gap: 10px;
   grid-row-gap: 10px;
   flex-flow: column;
@@ -1254,7 +1263,7 @@
   border-radius: 2px;
   justify-content: center;
   align-items: center;
-  width: auto;
+  width: 250px;
   padding: 10px;
   font-family: Neuemontreal, sans-serif;
   text-decoration: none;
@@ -1268,7 +1277,7 @@
   background-color: #222;
   justify-content: center;
   align-items: center;
-  width: auto;
+  width: 250px;
   padding: 10px;
   font-family: Neuemontreal, sans-serif;
   text-decoration: none;
@@ -1362,7 +1371,8 @@
     width: auto;
   }
 
-  .div-block-5-copy-copy, .div-block-5-copy-copy-copy {
+  .div-block-5-copy-copy,
+  .div-block-5-copy-copy-copy {
     justify-content: space-between;
     align-items: center;
     width: 450px;
@@ -1413,7 +1423,8 @@
     min-width: auto;
   }
 
-  .div-block-5-copy-copy, .div-block-5-copy-copy-copy {
+  .div-block-5-copy-copy,
+  .div-block-5-copy-copy-copy {
     width: 290px;
     min-width: auto;
   }
@@ -1445,7 +1456,9 @@
     padding: 16% 8%;
   }
 
-  .text-block-19, .text-block-22, .text-block-23 {
+  .text-block-19,
+  .text-block-22,
+  .text-block-23 {
     margin-bottom: 8%;
   }
 
@@ -1491,7 +1504,8 @@
     margin: 16% 8%;
   }
 
-  .text-block-33, .text-block-34 {
+  .text-block-33,
+  .text-block-34 {
     margin-bottom: 8%;
   }
 
@@ -1528,7 +1542,8 @@
     margin: 16% 8%;
   }
 
-  .text-block-38, .div-block-17 {
+  .text-block-38,
+  .div-block-17 {
     margin-bottom: 8%;
   }
 
@@ -1557,7 +1572,8 @@
     grid-row-gap: 10px;
   }
 
-  .text-block-42, .section-5 {
+  .text-block-42,
+  .section-5 {
     padding-left: 10%;
     padding-right: 10%;
   }
@@ -1572,7 +1588,9 @@
     grid-row-gap: 5px;
   }
 
-  .section-7, .section-5-copy, .section-7-copy {
+  .section-7,
+  .section-5-copy,
+  .section-7-copy {
     padding-left: 10%;
     padding-right: 10%;
   }
@@ -1607,14 +1625,20 @@
     margin-bottom: 8%;
   }
 
-  .image-20, .image-18 {
+  .image-20,
+  .image-18 {
     width: 80%;
     margin-bottom: 8%;
     margin-right: 0%;
   }
 }
 
-#w-node-_2d7ac03b-8509-6615-f8e2-e2b8f9d0e5e6-5caf5c53, #w-node-_4a61f5ae-4c07-ce5f-0cca-3a70d7a0fc75-5caf5c53, #w-node-c2a9c631-4bd5-e74e-af90-70e63235b79a-5caf5c53, #w-node-_5a686122-237b-f3a2-8040-781f7d17d2dd-5caf5c53, #w-node-_1f8b1022-dd8d-03e0-c8d6-e792efdcbb91-5caf5c53, #w-node-f8073e6c-5f63-6293-4d7c-96e9f06b8d5e-5caf5c53 {
+#w-node-_2d7ac03b-8509-6615-f8e2-e2b8f9d0e5e6-5caf5c53,
+#w-node-_4a61f5ae-4c07-ce5f-0cca-3a70d7a0fc75-5caf5c53,
+#w-node-c2a9c631-4bd5-e74e-af90-70e63235b79a-5caf5c53,
+#w-node-_5a686122-237b-f3a2-8040-781f7d17d2dd-5caf5c53,
+#w-node-_1f8b1022-dd8d-03e0-c8d6-e792efdcbb91-5caf5c53,
+#w-node-f8073e6c-5f63-6293-4d7c-96e9f06b8d5e-5caf5c53 {
   grid-area: span 2 / span 1 / span 2 / span 1;
 }
 
@@ -1630,6 +1654,7 @@
   font-style: normal;
   font-display: swap;
 }
+
 @font-face {
   font-family: 'editorial new light';
   src: url('../fonts/PPEditorialNew-UltralightItalic-BF644b214ff1e9b.otf') format('opentype');
@@ -1637,6 +1662,7 @@
   font-style: italic;
   font-display: swap;
 }
+
 @font-face {
   font-family: 'editorial new light';
   src: url('../fonts/PPEditorialNew-UltraboldItalic-BF644b214faef01.otf') format('opentype');
@@ -1644,6 +1670,7 @@
   font-style: italic;
   font-display: swap;
 }
+
 @font-face {
   font-family: 'editorial new light';
   src: url('../fonts/PPEditorialNew-Ultrabold-BF644b21500840c.otf') format('opentype');
@@ -1651,6 +1678,7 @@
   font-style: normal;
   font-display: swap;
 }
+
 @font-face {
   font-family: 'editorial new light';
   src: url('../fonts/PPEditorialNew-Italic-BF644b214fb0c0a.otf') format('opentype');
@@ -1658,6 +1686,7 @@
   font-style: italic;
   font-display: swap;
 }
+
 @font-face {
   font-family: 'editorial new light';
   src: url('../fonts/PPEditorialNew-Regular-BF644b214ff145f.otf') format('opentype');
@@ -1665,6 +1694,7 @@
   font-style: normal;
   font-display: swap;
 }
+
 @font-face {
   font-family: 'editorial new light';
   src: url('../fonts/PPEditorialNew-Ultralight-BF644b21500d0c0.otf') format('opentype');
@@ -1672,6 +1702,7 @@
   font-style: normal;
   font-display: swap;
 }
+
 @font-face {
   font-family: 'Neuemontreal';
   src: url('../fonts/NeueMontreal-Bold.otf') format('opentype');
@@ -1679,6 +1710,7 @@
   font-style: normal;
   font-display: swap;
 }
+
 @font-face {
   font-family: 'Neuemontreal';
   src: url('../fonts/NeueMontreal-LightItalic.otf') format('opentype');
@@ -1686,6 +1718,7 @@
   font-style: italic;
   font-display: swap;
 }
+
 @font-face {
   font-family: 'Neuemontreal';
   src: url('../fonts/NeueMontreal-Light.otf') format('opentype');
@@ -1693,6 +1726,7 @@
   font-style: normal;
   font-display: swap;
 }
+
 @font-face {
   font-family: 'Neuemontreal';
   src: url('../fonts/NeueMontreal-Italic.otf') format('opentype');
@@ -1700,6 +1734,7 @@
   font-style: italic;
   font-display: swap;
 }
+
 @font-face {
   font-family: 'Neuemontreal';
   src: url('../fonts/NeueMontreal-Regular.otf') format('opentype');
@@ -1707,6 +1742,7 @@
   font-style: normal;
   font-display: swap;
 }
+
 @font-face {
   font-family: 'Neuemontreal';
   src: url('../fonts/NeueMontreal-BoldItalic.otf') format('opentype');
@@ -1714,6 +1750,7 @@
   font-style: italic;
   font-display: swap;
 }
+
 @font-face {
   font-family: 'Neuemontreal';
   src: url('../fonts/NeueMontreal-Medium.otf') format('opentype');
@@ -1721,6 +1758,7 @@
   font-style: normal;
   font-display: swap;
 }
+
 @font-face {
   font-family: 'Neuemontreal';
   src: url('../fonts/NeueMontreal-MediumItalic.otf') format('opentype');
