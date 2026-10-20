@@ -1,0 +1,12 @@
+
+/* slides with a known aspect ratio: sized by container units so the image box
+   hugs the picture, which lets us round its corners */
+.pin-frame { container-type: size; }
+.pin-slide img.round {
+  position: static;
+  width: min(calc(100cqw - 64px), calc((100cqh - 64px) * var(--ar)));
+  height: auto;
+  aspect-ratio: var(--ar);
+  object-fit: cover;
+  border-radius: 7px;
+}
