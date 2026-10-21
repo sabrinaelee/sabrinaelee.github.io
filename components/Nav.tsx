@@ -54,7 +54,9 @@ export default function Nav() {
 
       <div className={`nav-sheet${open ? " open" : ""}`} onClick={() => setOpen(false)}>
         <nav className="nav-sheet-links" onClick={(e) => e.stopPropagation()}>
-          <span className="nav-sheet-label">Work</span>
+          <Link href="/" className="nav-sheet-label" onClick={() => setOpen(false)}>
+            Work
+          </Link>
           {[...projects].reverse().map((p) =>
             p.comingSoon ? (
               <span key={p.slug} className="nav-sheet-item soon">
