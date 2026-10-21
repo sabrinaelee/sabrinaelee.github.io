@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useEffect, useState } from "react";
+import { projects } from "@/lib/projects";
 
 export default function Nav() {
   const path = usePathname();
@@ -53,7 +54,31 @@ export default function Nav() {
 
       <div className={`nav-sheet${open ? " open" : ""}`} onClick={() => setOpen(false)}>
         <nav className="nav-sheet-links" onClick={(e) => e.stopPropagation()}>
-          {links}
+          <span className="nav-sheet-label">Work</span>
+          {[...projects].reverse().map((p) =>
+            p.comingSoon ? (
+              <span key={p.slug} className="nav-sheet-item soon">
+                <span className="nav-sheet-name">
+                  <span className="nav-arrow" aria-hidden>→</span>
+                  {p.title}
+                </span>
+                <em>Coming soon!</em>
+              </span>
+            ) : (
+              <Link key={p.slug} href={`/work/${p.slug}`} className="nav-sheet-item">
+                <span className="nav-sheet-name">
+                  <span className="nav-arrow" aria-hidden>→</span>
+                  {p.title}
+                </span>
+              </Link>
+            )
+          )}
+          <a href="/resume.pdf" target="_blank" rel="noopener noreferrer" className="nav-sheet-item nav-sheet-resume">
+            <span className="nav-sheet-name">
+              Resume
+              <span className="nav-arrow up" aria-hidden>↗</span>
+            </span>
+          </a>
         </nav>
       </div>
     </header>
