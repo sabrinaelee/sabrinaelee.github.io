@@ -6,7 +6,7 @@ import Footer from "@/components/Footer";
 import CursorTag from "@/components/CursorTag";
 
 export const metadata: Metadata = {
-  title: "Sabrina Lee — Designer",
+  title: "Sabrina Lee",
   description: "A designer of experiences and a daydreamer of everything under the sun.",
 };
 

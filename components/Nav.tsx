@@ -62,7 +62,8 @@ export default function Nav() {
                   <span className="nav-arrow" aria-hidden>→</span>
                   {p.title}
                 </span>
-                <em>Coming soon!</em>
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img className="nav-tag" src="/tags/coming-soon.svg" alt="Coming soon" />
               </span>
             ) : (
               <Link key={p.slug} href={`/work/${p.slug}`} className="nav-sheet-item">
